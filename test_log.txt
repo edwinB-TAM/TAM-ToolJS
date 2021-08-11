@@ -1,0 +1,510 @@
+--------- beginning of system
+--------- beginning of main
+08-10 14:21:35.263 20479 20668 I IntegrationHelper: Verifying Integration:
+08-10 14:21:35.263 20479 20668 I IntegrationHelper: *** Permissions ***
+08-10 14:21:35.264 20479 20668 I IntegrationHelper: android.permission.INTERNET - VERIFIED
+08-10 14:21:35.264 20479 20668 I IntegrationHelper: android.permission.ACCESS_NETWORK_STATE - VERIFIED
+08-10 14:21:35.265 20479 20668 I IntegrationHelper: --------------- AdColony --------------
+08-10 14:21:35.266 20479 20668 E IntegrationHelper: Adapter - MISSING
+08-10 14:21:35.266 20479 20668 E IntegrationHelper: >>>> AdColony - NOT VERIFIED
+08-10 14:21:35.266 20479 20668 I IntegrationHelper: --------------- AdMob --------------
+08-10 14:21:35.267 20479 20668 I IntegrationHelper: Adapter 4.3.14 - VERIFIED
+08-10 14:21:35.267 20479 20668 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:21:35.268 20479 20668 I IntegrationHelper: *** Activities ***
+08-10 14:21:35.271 20479 20668 I IntegrationHelper: com.google.android.gms.ads.AdActivity - VERIFIED
+08-10 14:21:35.272 20479 20668 I IntegrationHelper: >>>> AdMob - VERIFIED
+08-10 14:21:35.272 20479 20668 I IntegrationHelper: --------------- Amazon --------------
+08-10 14:21:35.272 20479 20668 E IntegrationHelper: Adapter - MISSING
+08-10 14:21:35.272 20479 20668 E IntegrationHelper: >>>> Amazon - NOT VERIFIED
+08-10 14:21:35.272 20479 20668 I IntegrationHelper: --------------- AppLovin --------------
+08-10 14:21:35.273 20479 20668 E IntegrationHelper: Adapter - MISSING
+08-10 14:21:35.273 20479 20668 E IntegrationHelper: >>>> AppLovin - NOT VERIFIED
+08-10 14:21:35.273 20479 20668 I IntegrationHelper: --------------- Chartboost --------------
+08-10 14:21:35.274 20479 20668 I IntegrationHelper: Adapter 4.3.4 - VERIFIED
+08-10 14:21:35.274 20479 20668 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:21:35.274 20479 20668 I IntegrationHelper: SDK Version - 8.1.0
+08-10 14:21:35.274 20479 20668 I IntegrationHelper: *** Activities ***
+08-10 14:21:35.277 20479 20668 I IntegrationHelper: com.chartboost.sdk.CBImpressionActivity - VERIFIED
+08-10 14:21:35.277 20479 20668 I IntegrationHelper: >>>> Chartboost - VERIFIED
+08-10 14:21:35.277 20479 20668 I IntegrationHelper: --------------- Facebook --------------
+08-10 14:21:35.278 20479 20668 I IntegrationHelper: Adapter 4.3.23 - VERIFIED
+08-10 14:21:35.278 20479 20668 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:21:35.278 20479 20668 I IntegrationHelper: SDK Version - 6.2.0
+08-10 14:21:35.278 20479 20668 I IntegrationHelper: *** Activities ***
+08-10 14:21:35.279 20479 20668 I IntegrationHelper: com.facebook.ads.AudienceNetworkActivity - VERIFIED
+08-10 14:21:35.280 20479 20668 I IntegrationHelper: >>>> Facebook - VERIFIED
+08-10 14:21:35.280 20479 20668 I IntegrationHelper: --------------- Fyber --------------
+08-10 14:21:35.280 20479 20668 E IntegrationHelper: Adapter - MISSING
+08-10 14:21:35.280 20479 20668 E IntegrationHelper: >>>> Fyber - NOT VERIFIED
+08-10 14:21:35.280 20479 20668 I IntegrationHelper: --------------- HyprMX --------------
+08-10 14:21:35.285 20479 20668 I IntegrationHelper: Adapter 4.1.7 - VERIFIED
+08-10 14:21:35.285 20479 20668 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:21:35.285 20479 20668 I IntegrationHelper: SDK Version - 5.1.2
+08-10 14:21:35.286 20479 20668 I IntegrationHelper: >>>> HyprMX - VERIFIED
+08-10 14:21:35.286 20479 20668 I IntegrationHelper: --------------- InMobi --------------
+08-10 14:21:35.286 20479 20668 E IntegrationHelper: Adapter - MISSING
+08-10 14:21:35.286 20479 20668 E IntegrationHelper: >>>> InMobi - NOT VERIFIED
+08-10 14:21:35.286 20479 20668 I IntegrationHelper: --------------- IronSource  --------------
+08-10 14:21:35.287 20479 20668 I IntegrationHelper: Adapter 7.0.3.1 - VERIFIED
+08-10 14:21:35.291 20479 20668 I IntegrationHelper: SDK Version - 5.89
+08-10 14:21:35.291 20479 20668 I IntegrationHelper: *** Activities ***
+08-10 14:21:35.292 20479 20668 I IntegrationHelper: com.ironsource.sdk.controller.ControllerActivity - VERIFIED
+08-10 14:21:35.294 20479 20668 I IntegrationHelper: com.ironsource.sdk.controller.InterstitialActivity - VERIFIED
+08-10 14:21:35.295 20479 20668 I IntegrationHelper: com.ironsource.sdk.controller.OpenUrlActivity - VERIFIED
+08-10 14:21:35.295 20479 20668 I IntegrationHelper: >>>> IronSource - VERIFIED
+08-10 14:21:35.295 20479 20668 I IntegrationHelper: --------------- Maio --------------
+08-10 14:21:35.295 20479 20668 E IntegrationHelper: Adapter - MISSING
+08-10 14:21:35.295 20479 20668 E IntegrationHelper: >>>> Maio - NOT VERIFIED
+08-10 14:21:35.296 20479 20668 I IntegrationHelper: --------------- MyTarget --------------
+08-10 14:21:35.296 20479 20668 E IntegrationHelper: Adapter - MISSING
+08-10 14:21:35.296 20479 20668 E IntegrationHelper: >>>> MyTarget - NOT VERIFIED
+08-10 14:21:35.296 20479 20668 I IntegrationHelper: --------------- Pangle --------------
+08-10 14:21:35.296 20479 20668 E IntegrationHelper: Adapter - MISSING
+08-10 14:21:35.296 20479 20668 E IntegrationHelper: >>>> Pangle - NOT VERIFIED
+08-10 14:21:35.296 20479 20668 I IntegrationHelper: --------------- Tapjoy --------------
+08-10 14:21:35.306 20479 20668 I IntegrationHelper: Adapter 4.1.15 - VERIFIED
+08-10 14:21:35.306 20479 20668 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:21:35.306 20479 20668 I IntegrationHelper: SDK Version - 12.7.1
+08-10 14:21:35.306 20479 20668 I IntegrationHelper: *** Activities ***
+08-10 14:21:35.307 20479 20668 I IntegrationHelper: com.tapjoy.TJAdUnitActivity - VERIFIED
+08-10 14:21:35.308 20479 20668 I IntegrationHelper: com.tapjoy.TJContentActivity - VERIFIED
+08-10 14:21:35.308 20479 20668 I IntegrationHelper: >>>> Tapjoy - VERIFIED
+08-10 14:21:35.309 20479 20668 I IntegrationHelper: --------------- UnityAds --------------
+08-10 14:21:35.310 20479 20668 I IntegrationHelper: Adapter 4.3.8 - VERIFIED
+08-10 14:21:35.310 20479 20668 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:21:35.314 20479 20668 I IntegrationHelper: SDK Version - 3.5.1
+08-10 14:21:35.314 20479 20668 I IntegrationHelper: *** Activities ***
+08-10 14:21:35.316 20479 20668 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitActivity - VERIFIED
+08-10 14:21:35.317 20479 20668 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentActivity - VERIFIED
+08-10 14:21:35.318 20479 20668 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity - VERIFIED
+08-10 14:21:35.319 20479 20668 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitSoftwareActivity - VERIFIED
+08-10 14:21:35.319 20479 20668 I IntegrationHelper: >>>> UnityAds - VERIFIED
+08-10 14:21:35.319 20479 20668 I IntegrationHelper: --------------- Vungle --------------
+08-10 14:21:35.319 20479 20668 I IntegrationHelper: Adapter 4.3.7 - VERIFIED
+08-10 14:21:35.319 20479 20668 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:21:35.319 20479 20668 I IntegrationHelper: SDK Version - 6.8.1
+08-10 14:21:35.319 20479 20668 I IntegrationHelper: >>>> Vungle - VERIFIED
+08-10 14:21:35.320 20479 20738 W IntegrationHelper: --------------- Google Play Services --------------
+08-10 14:21:35.322 20479 20738 I IntegrationHelper: Google Play Services - VERIFIED
+08-10 14:21:35.787 20479 20738 I IntegrationHelper: GAID is: 3a14fa1b-417b-4093-ae3d-10ca1ad1abe1 (use this for test devices)
+--------- beginning of system
+--------- beginning of main
+--------- beginning of system
+--------- beginning of main
+--------- beginning of system
+--------- beginning of main
+08-10 14:26:47.946 21309 21532 I IntegrationHelper: Verifying Integration:
+08-10 14:26:47.946 21309 21532 I IntegrationHelper: *** Permissions ***
+08-10 14:26:47.947 21309 21532 I IntegrationHelper: android.permission.INTERNET - VERIFIED
+08-10 14:26:47.947 21309 21532 I IntegrationHelper: android.permission.ACCESS_NETWORK_STATE - VERIFIED
+08-10 14:26:47.948 21309 21532 I IntegrationHelper: --------------- AdColony --------------
+08-10 14:26:47.949 21309 21532 E IntegrationHelper: Adapter - MISSING
+08-10 14:26:47.949 21309 21532 E IntegrationHelper: >>>> AdColony - NOT VERIFIED
+08-10 14:26:47.949 21309 21532 I IntegrationHelper: --------------- AdMob --------------
+08-10 14:26:47.951 21309 21532 I IntegrationHelper: Adapter 4.3.14 - VERIFIED
+08-10 14:26:47.952 21309 21532 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:26:47.953 21309 21532 I IntegrationHelper: *** Activities ***
+08-10 14:26:47.955 21309 21532 I IntegrationHelper: com.google.android.gms.ads.AdActivity - VERIFIED
+08-10 14:26:47.956 21309 21532 I IntegrationHelper: >>>> AdMob - VERIFIED
+08-10 14:26:47.956 21309 21532 I IntegrationHelper: --------------- Amazon --------------
+08-10 14:26:47.956 21309 21532 E IntegrationHelper: Adapter - MISSING
+08-10 14:26:47.957 21309 21532 E IntegrationHelper: >>>> Amazon - NOT VERIFIED
+08-10 14:26:47.957 21309 21532 I IntegrationHelper: --------------- AppLovin --------------
+08-10 14:26:47.958 21309 21532 E IntegrationHelper: Adapter - MISSING
+08-10 14:26:47.958 21309 21532 E IntegrationHelper: >>>> AppLovin - NOT VERIFIED
+08-10 14:26:47.958 21309 21532 I IntegrationHelper: --------------- Chartboost --------------
+08-10 14:26:47.963 21309 21532 I IntegrationHelper: Adapter 4.3.4 - VERIFIED
+08-10 14:26:47.963 21309 21532 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:26:47.964 21309 21532 I IntegrationHelper: SDK Version - 8.1.0
+08-10 14:26:47.964 21309 21532 I IntegrationHelper: *** Activities ***
+08-10 14:26:47.968 21309 21532 I IntegrationHelper: com.chartboost.sdk.CBImpressionActivity - VERIFIED
+08-10 14:26:47.968 21309 21532 I IntegrationHelper: >>>> Chartboost - VERIFIED
+08-10 14:26:47.968 21309 21532 I IntegrationHelper: --------------- Facebook --------------
+08-10 14:26:47.970 21309 21532 I IntegrationHelper: Adapter 4.3.23 - VERIFIED
+08-10 14:26:47.970 21309 21532 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:26:47.970 21309 21532 I IntegrationHelper: SDK Version - 6.2.0
+08-10 14:26:47.970 21309 21532 I IntegrationHelper: *** Activities ***
+08-10 14:26:47.974 21309 21532 I IntegrationHelper: com.facebook.ads.AudienceNetworkActivity - VERIFIED
+08-10 14:26:47.974 21309 21532 I IntegrationHelper: >>>> Facebook - VERIFIED
+08-10 14:26:47.974 21309 21532 I IntegrationHelper: --------------- Fyber --------------
+08-10 14:26:47.975 21309 21532 E IntegrationHelper: Adapter - MISSING
+08-10 14:26:47.975 21309 21532 E IntegrationHelper: >>>> Fyber - NOT VERIFIED
+08-10 14:26:47.975 21309 21532 I IntegrationHelper: --------------- HyprMX --------------
+08-10 14:26:47.976 21309 21532 I IntegrationHelper: Adapter 4.1.7 - VERIFIED
+08-10 14:26:47.977 21309 21532 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:26:47.977 21309 21532 I IntegrationHelper: SDK Version - 5.1.2
+08-10 14:26:47.977 21309 21532 I IntegrationHelper: >>>> HyprMX - VERIFIED
+08-10 14:26:47.977 21309 21532 I IntegrationHelper: --------------- InMobi --------------
+08-10 14:26:47.978 21309 21532 E IntegrationHelper: Adapter - MISSING
+08-10 14:26:47.978 21309 21532 E IntegrationHelper: >>>> InMobi - NOT VERIFIED
+08-10 14:26:47.978 21309 21532 I IntegrationHelper: --------------- IronSource  --------------
+08-10 14:26:47.981 21309 21532 I IntegrationHelper: Adapter 7.0.3.1 - VERIFIED
+08-10 14:26:47.983 21309 21532 I IntegrationHelper: SDK Version - 5.89
+08-10 14:26:47.983 21309 21532 I IntegrationHelper: *** Activities ***
+08-10 14:26:47.988 21309 21532 I IntegrationHelper: com.ironsource.sdk.controller.ControllerActivity - VERIFIED
+08-10 14:26:47.992 21309 21532 I IntegrationHelper: com.ironsource.sdk.controller.InterstitialActivity - VERIFIED
+08-10 14:26:47.995 21309 21532 I IntegrationHelper: com.ironsource.sdk.controller.OpenUrlActivity - VERIFIED
+08-10 14:26:47.996 21309 21532 I IntegrationHelper: >>>> IronSource - VERIFIED
+08-10 14:26:47.996 21309 21532 I IntegrationHelper: --------------- Maio --------------
+08-10 14:26:47.997 21309 21532 E IntegrationHelper: Adapter - MISSING
+08-10 14:26:47.997 21309 21532 E IntegrationHelper: >>>> Maio - NOT VERIFIED
+08-10 14:26:47.997 21309 21532 I IntegrationHelper: --------------- MyTarget --------------
+08-10 14:26:47.998 21309 21532 E IntegrationHelper: Adapter - MISSING
+08-10 14:26:47.998 21309 21532 E IntegrationHelper: >>>> MyTarget - NOT VERIFIED
+08-10 14:26:47.998 21309 21532 I IntegrationHelper: --------------- Pangle --------------
+08-10 14:26:47.999 21309 21532 E IntegrationHelper: Adapter - MISSING
+08-10 14:26:47.999 21309 21532 E IntegrationHelper: >>>> Pangle - NOT VERIFIED
+08-10 14:26:47.999 21309 21532 I IntegrationHelper: --------------- Tapjoy --------------
+08-10 14:26:48.006 21309 21532 I IntegrationHelper: Adapter 4.1.15 - VERIFIED
+08-10 14:26:48.007 21309 21532 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:26:48.007 21309 21532 I IntegrationHelper: SDK Version - 12.7.1
+08-10 14:26:48.007 21309 21532 I IntegrationHelper: *** Activities ***
+08-10 14:26:48.010 21309 21532 I IntegrationHelper: com.tapjoy.TJAdUnitActivity - VERIFIED
+08-10 14:26:48.013 21309 21532 I IntegrationHelper: com.tapjoy.TJContentActivity - VERIFIED
+08-10 14:26:48.013 21309 21532 I IntegrationHelper: >>>> Tapjoy - VERIFIED
+08-10 14:26:48.013 21309 21532 I IntegrationHelper: --------------- UnityAds --------------
+08-10 14:26:48.014 21309 21532 I IntegrationHelper: Adapter 4.3.8 - VERIFIED
+08-10 14:26:48.014 21309 21532 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:26:48.017 21309 21532 I IntegrationHelper: SDK Version - 3.5.1
+08-10 14:26:48.017 21309 21532 I IntegrationHelper: *** Activities ***
+08-10 14:26:48.021 21309 21532 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitActivity - VERIFIED
+08-10 14:26:48.024 21309 21532 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentActivity - VERIFIED
+08-10 14:26:48.027 21309 21532 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity - VERIFIED
+08-10 14:26:48.029 21309 21532 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitSoftwareActivity - VERIFIED
+08-10 14:26:48.030 21309 21532 I IntegrationHelper: >>>> UnityAds - VERIFIED
+08-10 14:26:48.030 21309 21532 I IntegrationHelper: --------------- Vungle --------------
+08-10 14:26:48.032 21309 21532 I IntegrationHelper: Adapter 4.3.7 - VERIFIED
+08-10 14:26:48.032 21309 21532 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:26:48.032 21309 21532 I IntegrationHelper: SDK Version - 6.8.1
+08-10 14:26:48.033 21309 21532 I IntegrationHelper: >>>> Vungle - VERIFIED
+08-10 14:26:48.040 21309 21581 W IntegrationHelper: --------------- Google Play Services --------------
+08-10 14:26:48.043 21309 21581 I IntegrationHelper: Google Play Services - VERIFIED
+08-10 14:26:48.087 21309 21581 I IntegrationHelper: GAID is: 3a14fa1b-417b-4093-ae3d-10ca1ad1abe1 (use this for test devices)
+--------- beginning of system
+--------- beginning of main
+08-10 14:29:01.917 21850 22051 I IntegrationHelper: Verifying Integration:
+08-10 14:29:01.917 21850 22051 I IntegrationHelper: *** Permissions ***
+08-10 14:29:01.918 21850 22051 I IntegrationHelper: android.permission.INTERNET - VERIFIED
+08-10 14:29:01.924 21850 22051 I IntegrationHelper: android.permission.ACCESS_NETWORK_STATE - VERIFIED
+08-10 14:29:01.925 21850 22051 I IntegrationHelper: --------------- AdColony --------------
+08-10 14:29:01.926 21850 22051 E IntegrationHelper: Adapter - MISSING
+08-10 14:29:01.926 21850 22051 E IntegrationHelper: >>>> AdColony - NOT VERIFIED
+08-10 14:29:01.927 21850 22051 I IntegrationHelper: --------------- AdMob --------------
+08-10 14:29:01.930 21850 22051 I IntegrationHelper: Adapter 4.3.14 - VERIFIED
+08-10 14:29:01.930 21850 22051 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:29:01.933 21850 22051 I IntegrationHelper: *** Activities ***
+08-10 14:29:01.937 21850 22051 I IntegrationHelper: com.google.android.gms.ads.AdActivity - VERIFIED
+08-10 14:29:01.938 21850 22051 I IntegrationHelper: >>>> AdMob - VERIFIED
+08-10 14:29:01.938 21850 22051 I IntegrationHelper: --------------- Amazon --------------
+08-10 14:29:01.939 21850 22051 E IntegrationHelper: Adapter - MISSING
+08-10 14:29:01.939 21850 22051 E IntegrationHelper: >>>> Amazon - NOT VERIFIED
+08-10 14:29:01.939 21850 22051 I IntegrationHelper: --------------- AppLovin --------------
+08-10 14:29:01.939 21850 22051 E IntegrationHelper: Adapter - MISSING
+08-10 14:29:01.940 21850 22051 E IntegrationHelper: >>>> AppLovin - NOT VERIFIED
+08-10 14:29:01.940 21850 22051 I IntegrationHelper: --------------- Chartboost --------------
+08-10 14:29:01.941 21850 22051 I IntegrationHelper: Adapter 4.3.4 - VERIFIED
+08-10 14:29:01.941 21850 22051 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:29:01.942 21850 22051 I IntegrationHelper: SDK Version - 8.1.0
+08-10 14:29:01.942 21850 22051 I IntegrationHelper: *** Activities ***
+08-10 14:29:01.945 21850 22051 I IntegrationHelper: com.chartboost.sdk.CBImpressionActivity - VERIFIED
+08-10 14:29:01.945 21850 22051 I IntegrationHelper: >>>> Chartboost - VERIFIED
+08-10 14:29:01.945 21850 22051 I IntegrationHelper: --------------- Facebook --------------
+08-10 14:29:01.947 21850 22051 I IntegrationHelper: Adapter 4.3.23 - VERIFIED
+08-10 14:29:01.947 21850 22051 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:29:01.948 21850 22051 I IntegrationHelper: SDK Version - 6.2.0
+08-10 14:29:01.948 21850 22051 I IntegrationHelper: *** Activities ***
+08-10 14:29:01.951 21850 22051 I IntegrationHelper: com.facebook.ads.AudienceNetworkActivity - VERIFIED
+08-10 14:29:01.951 21850 22051 I IntegrationHelper: >>>> Facebook - VERIFIED
+08-10 14:29:01.951 21850 22051 I IntegrationHelper: --------------- Fyber --------------
+08-10 14:29:01.951 21850 22051 E IntegrationHelper: Adapter - MISSING
+08-10 14:29:01.952 21850 22051 E IntegrationHelper: >>>> Fyber - NOT VERIFIED
+08-10 14:29:01.952 21850 22051 I IntegrationHelper: --------------- HyprMX --------------
+08-10 14:29:01.954 21850 22051 I IntegrationHelper: Adapter 4.1.7 - VERIFIED
+08-10 14:29:01.954 21850 22051 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:29:01.954 21850 22051 I IntegrationHelper: SDK Version - 5.1.2
+08-10 14:29:01.954 21850 22051 I IntegrationHelper: >>>> HyprMX - VERIFIED
+08-10 14:29:01.954 21850 22051 I IntegrationHelper: --------------- InMobi --------------
+08-10 14:29:01.955 21850 22051 E IntegrationHelper: Adapter - MISSING
+08-10 14:29:01.955 21850 22051 E IntegrationHelper: >>>> InMobi - NOT VERIFIED
+08-10 14:29:01.955 21850 22051 I IntegrationHelper: --------------- IronSource  --------------
+08-10 14:29:01.959 21850 22051 I IntegrationHelper: Adapter 7.0.3.1 - VERIFIED
+08-10 14:29:01.961 21850 22051 I IntegrationHelper: SDK Version - 5.89
+08-10 14:29:01.961 21850 22051 I IntegrationHelper: *** Activities ***
+08-10 14:29:01.964 21850 22051 I IntegrationHelper: com.ironsource.sdk.controller.ControllerActivity - VERIFIED
+08-10 14:29:01.967 21850 22051 I IntegrationHelper: com.ironsource.sdk.controller.InterstitialActivity - VERIFIED
+08-10 14:29:01.970 21850 22051 I IntegrationHelper: com.ironsource.sdk.controller.OpenUrlActivity - VERIFIED
+08-10 14:29:01.971 21850 22051 I IntegrationHelper: >>>> IronSource - VERIFIED
+08-10 14:29:01.971 21850 22051 I IntegrationHelper: --------------- Maio --------------
+08-10 14:29:01.972 21850 22051 E IntegrationHelper: Adapter - MISSING
+08-10 14:29:01.972 21850 22051 E IntegrationHelper: >>>> Maio - NOT VERIFIED
+08-10 14:29:01.972 21850 22051 I IntegrationHelper: --------------- MyTarget --------------
+08-10 14:29:01.973 21850 22051 E IntegrationHelper: Adapter - MISSING
+08-10 14:29:01.973 21850 22051 E IntegrationHelper: >>>> MyTarget - NOT VERIFIED
+08-10 14:29:01.973 21850 22051 I IntegrationHelper: --------------- Pangle --------------
+08-10 14:29:01.974 21850 22051 E IntegrationHelper: Adapter - MISSING
+08-10 14:29:01.974 21850 22051 E IntegrationHelper: >>>> Pangle - NOT VERIFIED
+08-10 14:29:01.974 21850 22051 I IntegrationHelper: --------------- Tapjoy --------------
+08-10 14:29:01.979 21850 22051 I IntegrationHelper: Adapter 4.1.15 - VERIFIED
+08-10 14:29:01.979 21850 22051 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:29:01.979 21850 22051 I IntegrationHelper: SDK Version - 12.7.1
+08-10 14:29:01.979 21850 22051 I IntegrationHelper: *** Activities ***
+08-10 14:29:01.983 21850 22051 I IntegrationHelper: com.tapjoy.TJAdUnitActivity - VERIFIED
+08-10 14:29:01.985 21850 22051 I IntegrationHelper: com.tapjoy.TJContentActivity - VERIFIED
+08-10 14:29:01.986 21850 22051 I IntegrationHelper: >>>> Tapjoy - VERIFIED
+08-10 14:29:01.986 21850 22051 I IntegrationHelper: --------------- UnityAds --------------
+08-10 14:29:01.987 21850 22051 I IntegrationHelper: Adapter 4.3.8 - VERIFIED
+08-10 14:29:01.987 21850 22051 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:29:01.988 21850 22051 I IntegrationHelper: SDK Version - 3.5.1
+08-10 14:29:01.988 21850 22051 I IntegrationHelper: *** Activities ***
+08-10 14:29:01.991 21850 22051 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitActivity - VERIFIED
+08-10 14:29:01.994 21850 22051 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentActivity - VERIFIED
+08-10 14:29:01.996 21850 22051 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity - VERIFIED
+08-10 14:29:01.998 21850 22051 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitSoftwareActivity - VERIFIED
+08-10 14:29:01.998 21850 22051 I IntegrationHelper: >>>> UnityAds - VERIFIED
+08-10 14:29:01.998 21850 22051 I IntegrationHelper: --------------- Vungle --------------
+08-10 14:29:02.000 21850 22051 I IntegrationHelper: Adapter 4.3.7 - VERIFIED
+08-10 14:29:02.000 21850 22051 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:29:02.001 21850 22051 I IntegrationHelper: SDK Version - 6.8.1
+08-10 14:29:02.001 21850 22051 I IntegrationHelper: >>>> Vungle - VERIFIED
+08-10 14:29:02.005 21850 22101 W IntegrationHelper: --------------- Google Play Services --------------
+08-10 14:29:02.010 21850 22101 I IntegrationHelper: Google Play Services - VERIFIED
+08-10 14:29:02.069 21850 22101 I IntegrationHelper: GAID is: 3a14fa1b-417b-4093-ae3d-10ca1ad1abe1 (use this for test devices)
+--------- beginning of system
+--------- beginning of system
+--------- beginning of main
+08-10 14:33:24.633 22449 22676 I IntegrationHelper: Verifying Integration:
+08-10 14:33:24.633 22449 22676 I IntegrationHelper: *** Permissions ***
+08-10 14:33:24.634 22449 22676 I IntegrationHelper: android.permission.INTERNET - VERIFIED
+08-10 14:33:24.635 22449 22676 I IntegrationHelper: android.permission.ACCESS_NETWORK_STATE - VERIFIED
+08-10 14:33:24.636 22449 22676 I IntegrationHelper: --------------- AdColony --------------
+08-10 14:33:24.637 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.637 22449 22676 E IntegrationHelper: >>>> AdColony - NOT VERIFIED
+08-10 14:33:24.637 22449 22676 I IntegrationHelper: --------------- AdMob --------------
+08-10 14:33:24.642 22449 22676 I IntegrationHelper: Adapter 4.3.14 - VERIFIED
+08-10 14:33:24.642 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.644 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.650 22449 22676 I IntegrationHelper: com.google.android.gms.ads.AdActivity - VERIFIED
+08-10 14:33:24.650 22449 22676 I IntegrationHelper: >>>> AdMob - VERIFIED
+08-10 14:33:24.650 22449 22676 I IntegrationHelper: --------------- Amazon --------------
+08-10 14:33:24.651 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.651 22449 22676 E IntegrationHelper: >>>> Amazon - NOT VERIFIED
+08-10 14:33:24.651 22449 22676 I IntegrationHelper: --------------- AppLovin --------------
+08-10 14:33:24.654 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.654 22449 22676 E IntegrationHelper: >>>> AppLovin - NOT VERIFIED
+08-10 14:33:24.654 22449 22676 I IntegrationHelper: --------------- Chartboost --------------
+08-10 14:33:24.655 22449 22676 I IntegrationHelper: Adapter 4.3.4 - VERIFIED
+08-10 14:33:24.655 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.657 22449 22676 I IntegrationHelper: SDK Version - 8.1.0
+08-10 14:33:24.657 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.661 22449 22676 I IntegrationHelper: com.chartboost.sdk.CBImpressionActivity - VERIFIED
+08-10 14:33:24.661 22449 22676 I IntegrationHelper: >>>> Chartboost - VERIFIED
+08-10 14:33:24.661 22449 22676 I IntegrationHelper: --------------- Facebook --------------
+08-10 14:33:24.665 22449 22676 I IntegrationHelper: Adapter 4.3.23 - VERIFIED
+08-10 14:33:24.665 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.665 22449 22676 I IntegrationHelper: SDK Version - 6.2.0
+08-10 14:33:24.665 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.670 22449 22676 I IntegrationHelper: com.facebook.ads.AudienceNetworkActivity - VERIFIED
+08-10 14:33:24.670 22449 22676 I IntegrationHelper: >>>> Facebook - VERIFIED
+08-10 14:33:24.670 22449 22676 I IntegrationHelper: --------------- Fyber --------------
+08-10 14:33:24.671 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.671 22449 22676 E IntegrationHelper: >>>> Fyber - NOT VERIFIED
+08-10 14:33:24.671 22449 22676 I IntegrationHelper: --------------- HyprMX --------------
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: Adapter 4.1.7 - VERIFIED
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: SDK Version - 5.1.2
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: >>>> HyprMX - VERIFIED
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: --------------- InMobi --------------
+08-10 14:33:24.673 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.673 22449 22676 E IntegrationHelper: >>>> InMobi - NOT VERIFIED
+08-10 14:33:24.673 22449 22676 I IntegrationHelper: --------------- IronSource  --------------
+08-10 14:33:24.675 22449 22676 I IntegrationHelper: Adapter 7.0.3.1 - VERIFIED
+08-10 14:33:24.675 22449 22676 I IntegrationHelper: SDK Version - 5.89
+08-10 14:33:24.675 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.679 22449 22676 I IntegrationHelper: com.ironsource.sdk.controller.ControllerActivity - VERIFIED
+08-10 14:33:24.685 22449 22676 I IntegrationHelper: com.ironsource.sdk.controller.InterstitialActivity - VERIFIED
+08-10 14:33:24.688 22449 22676 I IntegrationHelper: com.ironsource.sdk.controller.OpenUrlActivity - VERIFIED
+08-10 14:33:24.688 22449 22676 I IntegrationHelper: >>>> IronSource - VERIFIED
+08-10 14:33:24.688 22449 22676 I IntegrationHelper: --------------- Maio --------------
+08-10 14:33:24.690 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.690 22449 22676 E IntegrationHelper: >>>> Maio - NOT VERIFIED
+08-10 14:33:24.690 22449 22676 I IntegrationHelper: --------------- MyTarget --------------
+08-10 14:33:24.691 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.691 22449 22676 E IntegrationHelper: >>>> MyTarget - NOT VERIFIED
+08-10 14:33:24.692 22449 22676 I IntegrationHelper: --------------- Pangle --------------
+08-10 14:33:24.693 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.693 22449 22676 E IntegrationHelper: >>>> Pangle - NOT VERIFIED
+08-10 14:33:24.693 22449 22676 I IntegrationHelper: --------------- Tapjoy --------------
+08-10 14:33:24.704 22449 22676 I IntegrationHelper: Adapter 4.1.15 - VERIFIED
+08-10 14:33:24.704 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.704 22449 22676 I IntegrationHelper: SDK Version - 12.7.1
+08-10 14:33:24.704 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.708 22449 22676 I IntegrationHelper: com.tapjoy.TJAdUnitActivity - VERIFIED
+08-10 14:33:24.713 22449 22676 I IntegrationHelper: com.tapjoy.TJContentActivity - VERIFIED
+08-10 14:33:24.713 22449 22676 I IntegrationHelper: >>>> Tapjoy - VERIFIED
+08-10 14:33:24.713 22449 22676 I IntegrationHelper: --------------- UnityAds --------------
+08-10 14:33:24.719 22449 22676 I IntegrationHelper: Adapter 4.3.8 - VERIFIED
+08-10 14:33:24.719 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.721 22449 22676 I IntegrationHelper: SDK Version - 3.5.1
+08-10 14:33:24.721 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.725 22449 22676 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitActivity - VERIFIED
+08-10 14:33:24.728 22449 22676 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentActivity - VERIFIED
+08-10 14:33:24.731 22449 22676 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity - VERIFIED
+08-10 14:33:24.734 22449 22676 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitSoftwareActivity - VERIFIED
+08-10 14:33:24.734 22449 22676 I IntegrationHelper: >>>> UnityAds - VERIFIED
+08-10 14:33:24.734 22449 22676 I IntegrationHelper: --------------- Vungle --------------
+08-10 14:33:24.735 22449 22676 I IntegrationHelper: Adapter 4.3.7 - VERIFIED
+08-10 14:33:24.735 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.736 22449 22676 I IntegrationHelper: SDK Version - 6.8.1
+08-10 14:33:24.736 22449 22676 I IntegrationHelper: >>>> Vungle - VERIFIED
+08-10 14:33:24.741 22449 22724 W IntegrationHelper: --------------- Google Play Services --------------
+08-10 14:33:24.744 22449 22724 I IntegrationHelper: Google Play Services - VERIFIED
+08-10 14:33:24.791 22449 22724 I IntegrationHelper: GAID is: 3a14fa1b-417b-4093-ae3d-10ca1ad1abe1 (use this for test devices)
+--------- beginning of system
+--------- beginning of main
+08-10 14:33:24.665 22449 22676 I IntegrationHelper: SDK Version - 6.2.0
+08-10 14:33:24.665 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.670 22449 22676 I IntegrationHelper: com.facebook.ads.AudienceNetworkActivity - VERIFIED
+08-10 14:33:24.670 22449 22676 I IntegrationHelper: >>>> Facebook - VERIFIED
+08-10 14:33:24.670 22449 22676 I IntegrationHelper: --------------- Fyber --------------
+08-10 14:33:24.671 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.671 22449 22676 E IntegrationHelper: >>>> Fyber - NOT VERIFIED
+08-10 14:33:24.671 22449 22676 I IntegrationHelper: --------------- HyprMX --------------
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: Adapter 4.1.7 - VERIFIED
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: SDK Version - 5.1.2
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: >>>> HyprMX - VERIFIED
+08-10 14:33:24.672 22449 22676 I IntegrationHelper: --------------- InMobi --------------
+08-10 14:33:24.673 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.673 22449 22676 E IntegrationHelper: >>>> InMobi - NOT VERIFIED
+08-10 14:33:24.673 22449 22676 I IntegrationHelper: --------------- IronSource  --------------
+08-10 14:33:24.675 22449 22676 I IntegrationHelper: Adapter 7.0.3.1 - VERIFIED
+08-10 14:33:24.675 22449 22676 I IntegrationHelper: SDK Version - 5.89
+08-10 14:33:24.675 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.679 22449 22676 I IntegrationHelper: com.ironsource.sdk.controller.ControllerActivity - VERIFIED
+08-10 14:33:24.685 22449 22676 I IntegrationHelper: com.ironsource.sdk.controller.InterstitialActivity - VERIFIED
+08-10 14:33:24.688 22449 22676 I IntegrationHelper: com.ironsource.sdk.controller.OpenUrlActivity - VERIFIED
+08-10 14:33:24.688 22449 22676 I IntegrationHelper: >>>> IronSource - VERIFIED
+08-10 14:33:24.688 22449 22676 I IntegrationHelper: --------------- Maio --------------
+08-10 14:33:24.690 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.690 22449 22676 E IntegrationHelper: >>>> Maio - NOT VERIFIED
+08-10 14:33:24.690 22449 22676 I IntegrationHelper: --------------- MyTarget --------------
+08-10 14:33:24.691 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.691 22449 22676 E IntegrationHelper: >>>> MyTarget - NOT VERIFIED
+08-10 14:33:24.692 22449 22676 I IntegrationHelper: --------------- Pangle --------------
+08-10 14:33:24.693 22449 22676 E IntegrationHelper: Adapter - MISSING
+08-10 14:33:24.693 22449 22676 E IntegrationHelper: >>>> Pangle - NOT VERIFIED
+08-10 14:33:24.693 22449 22676 I IntegrationHelper: --------------- Tapjoy --------------
+08-10 14:33:24.704 22449 22676 I IntegrationHelper: Adapter 4.1.15 - VERIFIED
+08-10 14:33:24.704 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.704 22449 22676 I IntegrationHelper: SDK Version - 12.7.1
+08-10 14:33:24.704 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.708 22449 22676 I IntegrationHelper: com.tapjoy.TJAdUnitActivity - VERIFIED
+08-10 14:33:24.713 22449 22676 I IntegrationHelper: com.tapjoy.TJContentActivity - VERIFIED
+08-10 14:33:24.713 22449 22676 I IntegrationHelper: >>>> Tapjoy - VERIFIED
+08-10 14:33:24.713 22449 22676 I IntegrationHelper: --------------- UnityAds --------------
+08-10 14:33:24.719 22449 22676 I IntegrationHelper: Adapter 4.3.8 - VERIFIED
+08-10 14:33:24.719 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.721 22449 22676 I IntegrationHelper: SDK Version - 3.5.1
+08-10 14:33:24.721 22449 22676 I IntegrationHelper: *** Activities ***
+08-10 14:33:24.725 22449 22676 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitActivity - VERIFIED
+08-10 14:33:24.728 22449 22676 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentActivity - VERIFIED
+08-10 14:33:24.731 22449 22676 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity - VERIFIED
+08-10 14:33:24.734 22449 22676 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitSoftwareActivity - VERIFIED
+08-10 14:33:24.734 22449 22676 I IntegrationHelper: >>>> UnityAds - VERIFIED
+08-10 14:33:24.734 22449 22676 I IntegrationHelper: --------------- Vungle --------------
+08-10 14:33:24.735 22449 22676 I IntegrationHelper: Adapter 4.3.7 - VERIFIED
+08-10 14:33:24.735 22449 22676 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:33:24.736 22449 22676 I IntegrationHelper: SDK Version - 6.8.1
+08-10 14:33:24.736 22449 22676 I IntegrationHelper: >>>> Vungle - VERIFIED
+08-10 14:33:24.741 22449 22724 W IntegrationHelper: --------------- Google Play Services --------------
+08-10 14:33:24.744 22449 22724 I IntegrationHelper: Google Play Services - VERIFIED
+08-10 14:33:24.791 22449 22724 I IntegrationHelper: GAID is: 3a14fa1b-417b-4093-ae3d-10ca1ad1abe1 (use this for test devices)
+--------- beginning of system
+--------- beginning of main
+08-10 14:36:06.630 22991 23192 I IntegrationHelper: Verifying Integration:
+08-10 14:36:06.630 22991 23192 I IntegrationHelper: *** Permissions ***
+08-10 14:36:06.631 22991 23192 I IntegrationHelper: android.permission.INTERNET - VERIFIED
+08-10 14:36:06.632 22991 23192 I IntegrationHelper: android.permission.ACCESS_NETWORK_STATE - VERIFIED
+08-10 14:36:06.632 22991 23192 I IntegrationHelper: --------------- AdColony --------------
+08-10 14:36:06.633 22991 23192 E IntegrationHelper: Adapter - MISSING
+08-10 14:36:06.634 22991 23192 E IntegrationHelper: >>>> AdColony - NOT VERIFIED
+08-10 14:36:06.634 22991 23192 I IntegrationHelper: --------------- AdMob --------------
+08-10 14:36:06.639 22991 23192 I IntegrationHelper: Adapter 4.3.14 - VERIFIED
+08-10 14:36:06.639 22991 23192 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:36:06.641 22991 23192 I IntegrationHelper: *** Activities ***
+08-10 14:36:06.644 22991 23192 I IntegrationHelper: com.google.android.gms.ads.AdActivity - VERIFIED
+08-10 14:36:06.644 22991 23192 I IntegrationHelper: >>>> AdMob - VERIFIED
+08-10 14:36:06.644 22991 23192 I IntegrationHelper: --------------- Amazon --------------
+08-10 14:36:06.645 22991 23192 E IntegrationHelper: Adapter - MISSING
+08-10 14:36:06.645 22991 23192 E IntegrationHelper: >>>> Amazon - NOT VERIFIED
+08-10 14:36:06.645 22991 23192 I IntegrationHelper: --------------- AppLovin --------------
+08-10 14:36:06.646 22991 23192 E IntegrationHelper: Adapter - MISSING
+08-10 14:36:06.646 22991 23192 E IntegrationHelper: >>>> AppLovin - NOT VERIFIED
+08-10 14:36:06.647 22991 23192 I IntegrationHelper: --------------- Chartboost --------------
+08-10 14:36:06.648 22991 23192 I IntegrationHelper: Adapter 4.3.4 - VERIFIED
+08-10 14:36:06.648 22991 23192 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:36:06.648 22991 23192 I IntegrationHelper: SDK Version - 8.1.0
+08-10 14:36:06.649 22991 23192 I IntegrationHelper: *** Activities ***
+08-10 14:36:06.651 22991 23192 I IntegrationHelper: com.chartboost.sdk.CBImpressionActivity - VERIFIED
+08-10 14:36:06.651 22991 23192 I IntegrationHelper: >>>> Chartboost - VERIFIED
+08-10 14:36:06.651 22991 23192 I IntegrationHelper: --------------- Facebook --------------
+08-10 14:36:06.654 22991 23192 I IntegrationHelper: Adapter 4.3.23 - VERIFIED
+08-10 14:36:06.654 22991 23192 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:36:06.654 22991 23192 I IntegrationHelper: SDK Version - 6.2.0
+08-10 14:36:06.654 22991 23192 I IntegrationHelper: *** Activities ***
+08-10 14:36:06.656 22991 23192 I IntegrationHelper: com.facebook.ads.AudienceNetworkActivity - VERIFIED
+08-10 14:36:06.657 22991 23192 I IntegrationHelper: >>>> Facebook - VERIFIED
+08-10 14:36:06.657 22991 23192 I IntegrationHelper: --------------- Fyber --------------
+08-10 14:36:06.659 22991 23192 E IntegrationHelper: Adapter - MISSING
+08-10 14:36:06.659 22991 23192 E IntegrationHelper: >>>> Fyber - NOT VERIFIED
+08-10 14:36:06.659 22991 23192 I IntegrationHelper: --------------- HyprMX --------------
+08-10 14:36:06.660 22991 23192 I IntegrationHelper: Adapter 4.1.7 - VERIFIED
+08-10 14:36:06.660 22991 23192 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:36:06.660 22991 23192 I IntegrationHelper: SDK Version - 5.1.2
+08-10 14:36:06.660 22991 23192 I IntegrationHelper: >>>> HyprMX - VERIFIED
+08-10 14:36:06.660 22991 23192 I IntegrationHelper: --------------- InMobi --------------
+08-10 14:36:06.661 22991 23192 E IntegrationHelper: Adapter - MISSING
+08-10 14:36:06.661 22991 23192 E IntegrationHelper: >>>> InMobi - NOT VERIFIED
+08-10 14:36:06.661 22991 23192 I IntegrationHelper: --------------- IronSource  --------------
+08-10 14:36:06.663 22991 23192 I IntegrationHelper: Adapter 7.0.3.1 - VERIFIED
+08-10 14:36:06.664 22991 23192 I IntegrationHelper: SDK Version - 5.89
+08-10 14:36:06.664 22991 23192 I IntegrationHelper: *** Activities ***
+08-10 14:36:06.670 22991 23192 I IntegrationHelper: com.ironsource.sdk.controller.ControllerActivity - VERIFIED
+08-10 14:36:06.673 22991 23192 I IntegrationHelper: com.ironsource.sdk.controller.InterstitialActivity - VERIFIED
+08-10 14:36:06.677 22991 23192 I IntegrationHelper: com.ironsource.sdk.controller.OpenUrlActivity - VERIFIED
+08-10 14:36:06.677 22991 23192 I IntegrationHelper: >>>> IronSource - VERIFIED
+08-10 14:36:06.677 22991 23192 I IntegrationHelper: --------------- Maio --------------
+08-10 14:36:06.678 22991 23192 E IntegrationHelper: Adapter - MISSING
+08-10 14:36:06.678 22991 23192 E IntegrationHelper: >>>> Maio - NOT VERIFIED
+08-10 14:36:06.678 22991 23192 I IntegrationHelper: --------------- MyTarget --------------
+08-10 14:36:06.679 22991 23192 E IntegrationHelper: Adapter - MISSING
+08-10 14:36:06.679 22991 23192 E IntegrationHelper: >>>> MyTarget - NOT VERIFIED
+08-10 14:36:06.679 22991 23192 I IntegrationHelper: --------------- Pangle --------------
+08-10 14:36:06.681 22991 23192 E IntegrationHelper: Adapter - MISSING
+08-10 14:36:06.681 22991 23192 E IntegrationHelper: >>>> Pangle - NOT VERIFIED
+08-10 14:36:06.681 22991 23192 I IntegrationHelper: --------------- Tapjoy --------------
+08-10 14:36:06.688 22991 23192 I IntegrationHelper: Adapter 4.1.15 - VERIFIED
+08-10 14:36:06.688 22991 23192 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:36:06.688 22991 23192 I IntegrationHelper: SDK Version - 12.7.1
+08-10 14:36:06.688 22991 23192 I IntegrationHelper: *** Activities ***
+08-10 14:36:06.691 22991 23192 I IntegrationHelper: com.tapjoy.TJAdUnitActivity - VERIFIED
+08-10 14:36:06.694 22991 23192 I IntegrationHelper: com.tapjoy.TJContentActivity - VERIFIED
+08-10 14:36:06.694 22991 23192 I IntegrationHelper: >>>> Tapjoy - VERIFIED
+08-10 14:36:06.694 22991 23192 I IntegrationHelper: --------------- UnityAds --------------
+08-10 14:36:06.697 22991 23192 I IntegrationHelper: Adapter 4.3.8 - VERIFIED
+08-10 14:36:06.697 22991 23192 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:36:06.699 22991 23192 I IntegrationHelper: SDK Version - 3.5.1
+08-10 14:36:06.699 22991 23192 I IntegrationHelper: *** Activities ***
+08-10 14:36:06.707 22991 23192 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitActivity - VERIFIED
+08-10 14:36:06.711 22991 23192 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentActivity - VERIFIED
+08-10 14:36:06.713 22991 23192 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity - VERIFIED
+08-10 14:36:06.715 22991 23192 I IntegrationHelper: com.unity3d.services.ads.adunit.AdUnitSoftwareActivity - VERIFIED
+08-10 14:36:06.715 22991 23192 I IntegrationHelper: >>>> UnityAds - VERIFIED
+08-10 14:36:06.715 22991 23192 I IntegrationHelper: --------------- Vungle --------------
+08-10 14:36:06.719 22991 23192 I IntegrationHelper: Adapter 4.3.7 - VERIFIED
+08-10 14:36:06.719 22991 23192 I IntegrationHelper: Adapter - VERIFIED
+08-10 14:36:06.720 22991 23192 I IntegrationHelper: SDK Version - 6.8.1
+08-10 14:36:06.720 22991 23192 I IntegrationHelper: >>>> Vungle - VERIFIED
+08-10 14:36:06.724 22991 23238 W IntegrationHelper: --------------- Google Play Services --------------
+08-10 14:36:06.726 22991 23238 I IntegrationHelper: Google Play Services - VERIFIED
+08-10 14:36:06.774 22991 23238 I IntegrationHelper: GAID is: 3a14fa1b-417b-4093-ae3d-10ca1ad1abe1 (use this for test devices)
