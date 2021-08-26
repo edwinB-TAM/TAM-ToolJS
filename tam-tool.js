@@ -10,6 +10,7 @@ const subprocess = spawn('adb', ['logcat', '-s', 'IntegrationHelper']);
 const logging = fs.createWriteStream('test_log.txt', {flags: 'a'});
 
 //TODO kill process
+
 subprocess.stdout.on('data', (data) => {
   console.log(`stdout: ${data}`);
   // if ( data == 'use this for test devices)' ){
