@@ -1,7 +1,7 @@
 # TAM-ToolJS [WIP]
 
 1. Run node tam-tool.js
-2. Init app with zero loggers
+2. Init Android app with zero loggers
 
 ## tam-tool.js
 Will capture users logs
