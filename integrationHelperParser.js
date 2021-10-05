@@ -1,6 +1,6 @@
 const fs = require('fs');
 //Integration helper logs file, passed from tam-tool.js
-const filename = fs.readFileSync('/Users/edwinbetancourt/edwinB-TAM/TAM-ToolJS/test_log.txt').toString();
+const filename = fs.readFileSync('test_log.txt').toString();
 //Compiled Network and Adapter matches into one regex
 const network_adapter = /\B([-]{15})\s([a-zA-Z]\w*)\s+([-]{14})\n(.+?(?:((Adapter\s)([0-9.]+\S))\s))/g;
 // Empty Adapter
