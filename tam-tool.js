@@ -6,13 +6,9 @@ const date = new Date();
 const timestamp = date.getTime();
 //Android command line
 const subprocess = spawn('adb', ['logcat', '-s', 'IntegrationHelper'], {detached: true});
-//// TODO: iOS command line
-// const subprocess = spawn('cfgutil', ['syslog','grep','-r','IntegrationHelper'], {detached: true});
 
-//iOS
-// const subprocess = spawn('cfgutil',['syslog']);
-// const subprocess = child_process.exec(grep', ['-r', 'IntegrationHelper'])
 const logging = fs.createWriteStream(`test-${timestamp}.log`, {flags: 'a'});
+const data = logging.path;
 
 //TODO kill process
 function getUserLogs(arg){
@@ -37,10 +33,21 @@ function getUserLogs(arg){
 }
 
 function closeUserLogs(args){
-  path = fs.readFileSync(logging.path).toString();
-  integrationHelperParser.integrationHelperJson(path)
-  process.kill(-subprocess.pid);
+  console.log("The value of logging.path():", logging.path);
+  try {
+    const userLogs = fs.readFileSync(logging.path).toString();
+    console.log("The value of userLogs:", userLogs);
+    integrationHelperParser.integrationHelperJson(userLogs)
+    process.kill(-subprocess.pid);
+  }catch (err) {
+    console.log(err);
+  }
+  // userLogs = fs.readFileSync(logging.path).toString();
+  // console.log("The value of userLogs:", userLogs);
+  // integrationHelperParser.integrationHelperJson(userLogs)
+  // process.kill(-subprocess.pid);
 }
 // console.log("before");
-setTimeout(getUserLogs,15, 'close');
+getUserLogs();
+// setTimeout(getUserLogs,15, 'close');
 // console.log("after");
