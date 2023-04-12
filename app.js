@@ -3,8 +3,11 @@ const cheerio = require('cheerio');
 
 async function scrape(result, ironSourceAdapter_version) {
   try {
-    // Make a request to the website
-    const response = await axios.get('https://developers.is.com/ironsource-mobile/ios/mediation-networks-ios/#step-3');
+    // Make a request to the website iOS
+//     const response = await axios.get('https://developers.is.com/ironsource-mobile/ios/mediation-networks-ios/#step-3');
+    // Make a request to the website Android
+    const response = await axios.get('https://developers.is.com/ironsource-mobile/android/mediation-networks-android/#step-3');
+
 
     // Load the HTML into cheerio
     const $ = cheerio.load(response.data);
