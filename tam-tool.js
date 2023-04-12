@@ -4,7 +4,7 @@ const { spawn } = require('child_process');
 const integrationHelperParser = require('./integrationHelperParser');
 const date = new Date();
 const timestamp = date.getTime();
-Android command line
+//Android command line
 const subprocess = spawn('adb', ['logcat', '-s', 'IntegrationHelper'], {detached: true});
 // TODO: iOS command line
 const subprocess = spawn('cfgutil', ['syslog','grep','-r','IntegrationHelper'], {detached: true});
