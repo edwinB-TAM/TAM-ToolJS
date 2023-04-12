@@ -15,7 +15,8 @@ This repository contains a NodeJS script that is used to check the compatibility
 ## Usage
 Make sure your mobile device is connected to your computer via USB and that USB debugging is enabled.
 Open a command line interface and navigate to the root directory of the repository.
-Run the command node tam-tool.js.
+- Run the command node tam-tool.js.
+ 
 Follow the instructions on the command line to check the compatibility of the adapters in your mobile application with the IronSource SDK.
 
 ## Notes
