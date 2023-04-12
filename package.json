@@ -1,0 +1,19 @@
+{
+  "name": "tam-tooljs",
+  "version": "1.0.0",
+  "main": "tam-tool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edwin Betancourt",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.17.1",
+    "qfgets": "^1.1.1"
+  },
+  "devDependencies": {},
+  "description": "1. Run node tam-tool.js 2. Init Android app with zero loggers"
+}
