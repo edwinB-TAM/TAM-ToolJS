@@ -10,10 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.2.2",
+    "chalk": "^5.3.0",
     "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
     "express": "^4.17.1",
     "qfgets": "^1.1.1"
   },
-  "devDependencies": {},
   "description": "1. Run node tam-tool.js 2. Init Android app with zero loggers"
 }

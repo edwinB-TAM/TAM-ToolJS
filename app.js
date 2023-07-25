@@ -1,12 +1,13 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const colors = require('colors');
 
 async function scrape(result, ironSourceAdapter_version) {
   try {
     // Make a request to the website iOS
 //     const response = await axios.get('https://developers.is.com/ironsource-mobile/ios/mediation-networks-ios/#step-3');
     // Make a request to the website Android
-    const response = await axios.get('https://developers.is.com/ironsource-mobile/android/mediation-networks-android/#step-3');
+    const response = await axios.get('https://developers.is.com/ironsource-mobile/ios/mediation-networks-ios/#step-3');
 
 
     // Load the HTML into cheerio
@@ -18,7 +19,7 @@ async function scrape(result, ironSourceAdapter_version) {
     // Iterate over the result object and compare the values
     let isCompatible = false;
 
-    console.log(`You are using IronSource ${result['IronSource'].adapter}`);
+    console.log(`You are using IronSource ${result['IronSource'].adapter}`.bold.underline + '(from IntegrationHelper)\n'.bold.underline);
     for (const network in result) {
       if (network === "IronSource") {
         continue;
@@ -40,7 +41,7 @@ async function scrape(result, ironSourceAdapter_version) {
         }
       });
       if (!isCompatible) {
-        console.log(`${network} ${result[network].adapter} is not compatible`);
+        console.log(`${network} ${result[network].adapter} is not compatible`.red.italic);
       }
       isCompatible = false;
     }
